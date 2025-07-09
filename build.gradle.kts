@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "de.training_git"
+group = "vs.guru.qa"
 version = "1.0-SNAPSHOT"
 
 repositories {
